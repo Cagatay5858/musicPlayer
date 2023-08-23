@@ -1,0 +1,15 @@
+C:\Users\YASİN\Desktop\cpp\musicPlayer3\musicPlayer3\bin\Debug\musicPlayer3.exe.config
+C:\Users\YASİN\Desktop\cpp\musicPlayer3\musicPlayer3\bin\Debug\musicPlayer3.exe
+C:\Users\YASİN\Desktop\cpp\musicPlayer3\musicPlayer3\bin\Debug\musicPlayer3.pdb
+C:\Users\YASİN\Desktop\cpp\musicPlayer3\musicPlayer3\bin\Debug\Interop.WMPLib.dll
+C:\Users\YASİN\Desktop\cpp\musicPlayer3\musicPlayer3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\YASİN\Desktop\cpp\musicPlayer3\musicPlayer3\obj\Debug\musicPlayer3.csproj.AssemblyReference.cache
+C:\Users\YASİN\Desktop\cpp\musicPlayer3\musicPlayer3\obj\Debug\Interop.WMPLib.dll
+C:\Users\YASİN\Desktop\cpp\musicPlayer3\musicPlayer3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\YASİN\Desktop\cpp\musicPlayer3\musicPlayer3\obj\Debug\musicPlayer3.csproj.ResolveComReference.cache
+C:\Users\YASİN\Desktop\cpp\musicPlayer3\musicPlayer3\obj\Debug\musicPlayer3.Form1.resources
+C:\Users\YASİN\Desktop\cpp\musicPlayer3\musicPlayer3\obj\Debug\musicPlayer3.Properties.Resources.resources
+C:\Users\YASİN\Desktop\cpp\musicPlayer3\musicPlayer3\obj\Debug\musicPlayer3.csproj.GenerateResource.cache
+C:\Users\YASİN\Desktop\cpp\musicPlayer3\musicPlayer3\obj\Debug\musicPlayer3.csproj.CoreCompileInputs.cache
+C:\Users\YASİN\Desktop\cpp\musicPlayer3\musicPlayer3\obj\Debug\musicPlayer3.exe
+C:\Users\YASİN\Desktop\cpp\musicPlayer3\musicPlayer3\obj\Debug\musicPlayer3.pdb
